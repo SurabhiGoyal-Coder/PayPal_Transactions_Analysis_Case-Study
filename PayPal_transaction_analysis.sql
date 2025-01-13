@@ -196,6 +196,8 @@ and t.transaction_date < '2024-05-01' group by 1,2,3,4)
 select merchant_id, business_name, transaction_year, transaction_month, total_transaction_amount, case when total_transaction_amount > 50000 then 'Exceeded $50,000'
 else 'Did Not Exceed $50,000' end as performance_status from cte order by 1,3,4;
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                 -- **The End**
 
 
 
