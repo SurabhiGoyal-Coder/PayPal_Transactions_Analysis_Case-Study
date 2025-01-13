@@ -1,0 +1,201 @@
+merchant_id,business_name,country_id
+1,"Hunter, Orr and Serrano",22
+2,"Bauer Ltd",15
+3,"Gates, Hill and Murphy",12
+4,Walker-Lynn,3
+5,"Madden, Ramsey and Stephens",7
+6,"Smith, Lewis and Moreno",27
+7,"Castro, Green and Jones",5
+8,Harris-Nguyen,48
+9,"Baker Inc",44
+10,"Ward, Cohen and Sullivan",33
+11,"Sanders, Hernandez and Saunders",27
+12,Lopez-Hubbard,30
+13,Wiggins-Gallagher,37
+14,"Hancock, Ross and Sherman",15
+15,Anderson-Perez,14
+16,Scott-Figueroa,35
+17,"Bender Ltd",10
+18,Oneill-Rose,34
+19,Wheeler-Adams,44
+20,Beasley-Young,45
+21,"Arias and Sons",23
+22,Clark-Walsh,20
+23,Harris-Estes,44
+24,"Simon PLC",46
+25,"Cherry and Sons",6
+26,"Mccann and Sons",39
+27,"Pham LLC",23
+28,Kelley-Thompson,26
+29,"Cooper LLC",11
+30,"Fox Ltd",4
+31,"Moran Group",24
+32,"Rose, Davis and Brewer",5
+33,"York Group",41
+34,"Snyder, Hinton and Pena",38
+35,Knox-Murray,16
+36,"Fernandez Ltd",15
+37,"Daniels PLC",7
+38,"Scott and Sons",36
+39,Lopez-Walsh,2
+40,Carroll-Harper,3
+41,Morris-Armstrong,40
+42,"Solis Inc",36
+43,"Barron Ltd",25
+44,Romero-Davis,25
+45,"Harrell, Ramirez and Torres",28
+46,Perkins-Chandler,23
+47,"Spencer, Bennett and Turner",25
+48,Moore-Parker,34
+49,"Wood, Baker and Duffy",34
+50,"Weeks PLC",17
+51,"Pierce, Carson and Keith",22
+52,"Wallace, Rivas and Crawford",38
+53,"Shelton, Jones and Ferguson",14
+54,"Carter, Brown and Strong",9
+55,Miller-Grimes,44
+56,"Robinson, Morales and Diaz",17
+57,"Schultz Group",38
+58,"Schmitt, Walker and Johnston",31
+59,Contreras-Chen,41
+60,"Quinn, Freeman and Peterson",46
+61,"Howell and Sons",47
+62,"Love, Vance and Bass",22
+63,"Nguyen, Morrow and Poole",39
+64,"Williams, Clark and Bennett",11
+65,"Rosales Ltd",7
+66,"Mcdaniel PLC",47
+67,"Williams, Brown and Young",1
+68,Ryan-Williams,44
+69,"Arias, Walker and Wells",33
+70,Pham-Cole,4
+71,"English Group",28
+72,Evans-Shea,38
+73,"Kelly PLC",41
+74,"Campbell PLC",18
+75,"Cruz, Lee and Henderson",25
+76,"Benitez Inc",8
+77,"Murphy, Cole and Bowman",20
+78,"Delgado LLC",2
+79,"Harris Group",22
+80,"Gonzales Group",43
+81,"Dyer Inc",3
+82,"Ellis and Sons",50
+83,Walker-Dennis,43
+84,"Taylor, Beard and Simon",6
+85,"Owen, Harrison and Johnson",29
+86,"Cruz, Wells and Ramos",27
+87,"Hendricks PLC",42
+88,Smith-Kim,20
+89,"Williams, Miller and Pittman",29
+90,"Howell, Wilson and Lowe",12
+91,Wilson-Mosley,25
+92,Nielsen-Higgins,45
+93,Scott-Mcfarland,31
+94,"Levine LLC",35
+95,"Long, Lee and Barrera",35
+96,Lewis-Mueller,48
+97,"Knight and Sons",32
+98,Lopez-Green,10
+99,"Moore LLC",19
+100,"Wright, David and Lewis",37
+101,"Benton Ltd",42
+102,"Knapp, Dean and Jones",39
+103,"Rivera and Sons",11
+104,Best-Patterson,10
+105,"Leonard Group",2
+106,"Campbell, Williams and Hall",44
+107,"Obrien, Berry and Bowers",25
+108,Robinson-Roberts,19
+109,"Wells, Mendoza and Wheeler",26
+110,Larson-Mccann,40
+111,"Farmer LLC",32
+112,"Hutchinson, Ali and Robinson",15
+113,"Melton, Johnston and Lee",27
+114,Wilson-Kramer,13
+115,"Herrera Group",42
+116,Johnson-Anderson,7
+117,"Mcguire and Sons",21
+118,"Blackburn Ltd",30
+119,"Cooley, Reid and Griffin",46
+120,"Thomas Group",8
+121,"Anderson, Edwards and Williamson",47
+122,Thomas-Hall,47
+123,"Hopkins Inc",21
+124,Moyer-Conrad,13
+125,"Gordon LLC",13
+126,"Hodges, Garner and Morgan",10
+127,"Wong Group",46
+128,Wood-Gonzalez,30
+129,Grant-Gallegos,42
+130,"Green PLC",10
+131,"Matthews, Parker and Cooper",6
+132,"Galvan, Clayton and Reyes",45
+133,Luna-Andrews,35
+134,"Rodriguez, Campbell and Colon",36
+135,"Harding, Rowe and Dominguez",30
+136,"Novak, Freeman and Meadows",45
+137,Fleming-Choi,36
+138,Golden-Horton,49
+139,"Miller, Brown and Salinas",5
+140,Herman-Butler,46
+141,"Wyatt Ltd",29
+142,"Gray, Davidson and Shaffer",15
+143,Santiago-Fernandez,41
+144,"Jordan PLC",7
+145,"Villanueva and Sons",50
+146,"Chen and Sons",47
+147,Morales-Adams,10
+148,"Lee LLC",23
+149,Arnold-Brown,32
+150,Gilmore-Nash,23
+151,"Gould LLC",39
+152,"Morales, Hall and Hunter",24
+153,"Dean, Brown and Hester",12
+154,"Cortez, Smith and Jensen",1
+155,"Price, Richards and White",2
+156,"Robinson, Estrada and Foster",4
+157,"Barber PLC",29
+158,"Bentley, Baker and Peterson",1
+159,"Lynch Group",18
+160,George-York,27
+161,"Brown Ltd",22
+162,"Houston, Bishop and Dillon",31
+163,Ford-Valdez,26
+164,"Ball LLC",38
+165,"Robles, Parker and Johnson",30
+166,"Rodriguez PLC",40
+167,Smith-French,46
+168,"Snyder and Sons",32
+169,"Gonzalez, Johnson and Merritt",24
+170,Dunlap-Brown,44
+171,West-Grant,3
+172,Rogers-Wilkins,18
+173,"Delgado, Olson and Callahan",44
+174,Graham-Little,21
+175,Garcia-French,34
+176,Clarke-Reed,19
+177,"Glass, Gill and Cook",19
+178,Walton-Chan,48
+179,"Roberson and Sons",22
+180,"Schmidt, Jones and Hunter",15
+181,"Brown, Coleman and Murray",15
+182,"Adams, Koch and Richardson",7
+183,"Anderson, Mason and Bennett",39
+184,"Burch Inc",41
+185,"Willis, Lopez and White",39
+186,Sherman-Morgan,25
+187,Colon-Pearson,21
+188,"Morris, Villegas and Hernandez",43
+189,"Harris, Bond and Perez",36
+190,"Hansen PLC",3
+191,"Soto LLC",47
+192,"Williams Group",18
+193,Moore-Ramirez,41
+194,Smith-Juarez,40
+195,Mclaughlin-Suarez,32
+196,Lopez-Brown,50
+197,Stone-Green,38
+198,Garcia-White,33
+199,"Adams, Lopez and Johnson",13
+200,"Thomas PLC",44
