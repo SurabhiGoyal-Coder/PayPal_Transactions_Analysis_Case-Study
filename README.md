@@ -3,9 +3,9 @@ Conducted an in-depth MySQL analysis of a global digital payment platform to inc
 
 Objectives:
 
-*User Behavior and Engagement: Segment users based on average transaction amounts and identify consistently engaged users by tracking monthly transaction activity over the past year.
-*Geographic Insights: Analyze geographic distribution to identify key sending and receiving countries.
-*Sales Optimization: Analyze the performance of merchants to identify opportunities for increased engagement, highlight top customers for loyalty programs based on transaction amounts.
-*Platform Performance: Track KPIs such as total transaction amounts, high-value transactions, and revenue distribution and evaluate the financial activity by segmenting transactions by type and value.
+* User Behavior and Engagement: Segment users based on average transaction amounts and identify consistently engaged users by tracking monthly transaction activity over the past year.
+* Geographic Insights: Analyze geographic distribution to identify key sending and receiving countries.
+* Sales Optimization: Analyze the performance of merchants to identify opportunities for increased engagement, highlight top customers for loyalty programs based on transaction amounts.
+* Platform Performance: Track KPIs such as total transaction amounts, high-value transactions, and revenue distribution and evaluate the financial activity by segmenting transactions by type and value.
 
 
