@@ -1,4 +1,4 @@
-# PayPal_Transactions_Analysis_Case-Study
+# PayPal_Transactions_Analysis_Case_Study
 Conducted an in-depth MySQL analysis of a global digital payment platform to increase transaction volume and improve user satisfaction. The goal is to identify actionable insights from the transaction data that can drive strategic decisions, improve risk management, and ultimately increase the platform's market share and profitability in the competitive digital payment industry.
 
 Objectives:
